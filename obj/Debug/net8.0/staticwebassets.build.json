@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AHskKqzJ2nUCAktiMlOD4xC2IQjuB8d5AXPXyUULn4M=",
+  "Source": "NET8_MassTransit_Demo",
+  "BasePath": "_content/NET8_MassTransit_Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
